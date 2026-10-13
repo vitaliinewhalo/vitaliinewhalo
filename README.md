@@ -1,4 +1,4 @@
-<img align="right" src="https://i.pinimg.com/originals/eb/bb/16/ebbb162a430bd3b0c036c2566a731512.gif" width="190" alt="Pop Cat" />
+<img align="right" src="https://i.pinimg.com/originals/c9/ae/90/c9ae9033ece6d38f5a164ddbd468a4f4.gif" width="190" alt="Pop Cat" />
 
 # Hi, I am Vitalii Nychkalo
 
