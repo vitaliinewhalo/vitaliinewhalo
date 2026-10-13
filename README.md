@@ -6,7 +6,7 @@
 - Founder of **Newhalo**.
 - Building native fluid UI motion engines & kinetic systems in **Rust**.
 - Exploring zero-idle OS lifecycle scheduling, modern desktop tools, and web architecture.
-
+<br clear="right"/>
 ---
 
 ### Connect & Links
