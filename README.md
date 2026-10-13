@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I am Vitalii Nychkalo
 
-<!--
-**vitaliinewhalo/vitaliinewhalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Software Architect & Systems Engineer** focused on high-performance software and reactive architectures.
+- Founder of **Newhalo**.
+- Building native fluid UI motion engines & kinetic systems in **Rust**.
+- Exploring zero-idle OS lifecycle scheduling, modern desktop tools, and web architecture.
+- Based in **Copenhagen, Denmark**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect & Links
+
+[Portfolio](https://vitaliinewhalo.github.io) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/vitalii-newhalo)
